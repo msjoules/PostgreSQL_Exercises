@@ -1,5 +1,9 @@
 # folder_to_ignore/
-=
+
+# Files to ignore
+courses_db_user_julia
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
