@@ -1,7 +1,7 @@
 # folder_to_ignore/
 
 # Files to ignore
-courses_db_user_julia
+courses_db_user_julia.py
 
 
 # Byte-compiled / optimized / DLL files
